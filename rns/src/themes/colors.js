@@ -1,0 +1,101 @@
+// const Colors = {
+//   primary: "#1abb6a",
+//   scondary: "#6EA533",
+//   backgroundColor: "#fbf6f0",
+//   color: "#16a596",
+//   persianGreen: "#009688",
+//   white: "#fff",
+//   grey: "#596c75",
+//   separator: "#608",
+//   // separator: "#f0f0f0",
+//   iron: "#D1D3D4",
+//   black: "black",
+//   slateGray: "#6e848f",
+//   rippleColor: "rgba(0, 0, 0, .05)",
+//   statusbarModal: "rgba(0,0,0,0.3)",
+//   dark: {
+//     primary: "#48A43F",
+//     background: "rgb(1, 1, 1)",
+//     // card: "rgb(18, 18, 55)",
+//     text: "rgb(229, 229, 231)",
+//     // border: "rgb(39, 39, 41)",
+//     // notification: "rgb(255, 69, 58))",
+//     accent: "#4FB446",
+//     bg2: "rgba(5, 113, 48,0.22)",
+//   },
+//   light: {
+//     primary: "#48A43F",
+//     background: "rgb(229, 229, 221)",
+//     // card: "rgb(0, 169, 8)",
+//     card: "rgba(255, 255, 255, 0.3)",
+
+//     // card: "rgb(255, 255, 255)",
+//     text: "rgb(28, 28, 30)",
+//     // border: "rgb(216, 216, 216)",
+//     // notification: "rgb(255, 59, 48)",
+//     accent: "#4FB446",
+//     bg2: "rgba(5, 113, 48,0.22)",
+//   },
+//   lighta: {
+//     primary: "rgb(255, 45, 85)",
+//     background: "rgb(242, 242, 242)",
+//     card: "rgb(255, 255, 255)",
+//     text: "rgb(28, 28, 30)",
+//     border: "rgb(199, 199, 204)",
+//     notification: "rgb(255, 69, 58)",
+//     // accent :""
+//   },
+// };
+
+// export { Colors };
+
+const Colors = {
+  primary: '#1abb6a',
+  scondary: '#6EA533',
+  backgroundColor: '#fbf6f0',
+  color: '#16a596',
+  persianGreen: '#009688',
+  white: '#fff',
+  grey: '#596c75',
+  separator: '#608',
+  // separator: "#f0f0f0",
+  iron: '#D1D3D4',
+  black: 'black',
+  slateGray: '#6e848f',
+  rippleColor: 'rgba(0, 0, 0, .05)',
+  statusbarModal: 'rgba(0,0,0,0.3)',
+  dark: {
+    primary: '#48A43F',
+    background: 'rgb(1, 1, 1)',
+    // card: "rgb(18, 18, 55)",
+    text: 'rgb(229, 229, 231)',
+    // border: "rgb(39, 39, 41)",
+    // notification: "rgb(255, 69, 58))",
+    accent: '#4FB446',
+    bg2: 'rgba(5, 113, 48,0.22)',
+  },
+  light: {
+    primary: '#48A43F',
+    background: 'rgb(229, 229, 221)',
+    // card: "rgb(0, 169, 8)",
+    card: 'rgba(255, 255, 255, 0.3)',
+
+    // card: "rgb(255, 255, 255)",
+    text: 'rgb(28, 28, 30)',
+    // border: "rgb(216, 216, 216)",
+    // notification: "rgb(255, 59, 48)",
+    accent: '#4FB446',
+    bg2: 'rgba(5, 113, 48,0.22)',
+  },
+  lighta: {
+    primary: 'rgb(255, 45, 85)',
+    background: 'rgb(242, 242, 242)',
+    card: 'rgb(255, 255, 255)',
+    text: 'rgb(28, 28, 30)',
+    border: 'rgb(199, 199, 204)',
+    notification: 'rgb(255, 69, 58)',
+    // accent :""
+  },
+};
+
+export {Colors};
